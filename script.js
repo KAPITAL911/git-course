@@ -1,2 +1,5 @@
 document.body.innerHTML = '<h1>Hello from JavaScript</h1>'
-console.log('Test !!!!!!!!!!!!!!!!')
+for(i = 1; i < 11; i++) {
+    console.log(i + " хуй")
+}
+console.log('hfbdjhgb')
