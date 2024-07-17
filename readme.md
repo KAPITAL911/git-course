@@ -14,8 +14,4 @@ diffriend
 
 it`s a test!
 
-
-for test
-
-
-delete
+for test revert
