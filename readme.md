@@ -8,6 +8,8 @@ r
 master
                   test branch commit 1
 
+                  test branch commit 2
+
 diffriend
 
 
