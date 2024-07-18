@@ -34,7 +34,7 @@ for test revert
 ===
 ==p=p=p=
 
-
+-a
 
                            for test reset 1
 
