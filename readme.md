@@ -10,6 +10,8 @@ master
 
                   test branch commit 2
 
+                  test branch commit 2
+
 diffriend
 
 
@@ -24,11 +26,14 @@ for test revert
 
 
                    commit number two
+<<<<<<< HEAD
 
 
 
 
                    commit number three
+=======
+>>>>>>> master
 .
 
 -
