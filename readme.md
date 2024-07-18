@@ -6,7 +6,7 @@ crash course for Git
 r
 
 master
-
+                  test branch commit 1
 
 diffriend
 
