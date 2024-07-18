@@ -26,15 +26,8 @@ for test revert
 
 
                    commit number two
-<<<<<<< HEAD
-
-
-
 
                    commit number three
-=======
->>>>>>> master
-.
 
 -
 
@@ -42,3 +35,5 @@ for test revert
 ==p=p=p=
 
 -a
+
+                           for test reset 1
