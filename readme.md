@@ -49,4 +49,8 @@ for test revert
 
                              for cherry-pick from test 1
                             for cherry-pick from test 2
+<<<<<<< HEAD
                             for cherry-pick from test 3
+=======
+                            for cherry-pick from test 3 (something changes)
+>>>>>>> master
