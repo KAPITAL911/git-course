@@ -11,4 +11,4 @@ test clone from gitHub
 
               cherry-pick 3
 
-to delete    ......
+to delete    
