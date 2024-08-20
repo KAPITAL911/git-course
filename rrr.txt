@@ -9,8 +9,5 @@ test clone from gitHub
 
               cherry-pick 2 yet
 
-              cherry-pick 3
-
-to delete    
-
+              cherry-pick 3 yet
 
