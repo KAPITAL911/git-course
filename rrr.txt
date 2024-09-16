@@ -1,6 +1,6 @@
 1234567 test2
 
-test mRRerge
+test merge
 
 test clone from gitHub
 
