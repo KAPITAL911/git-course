@@ -9,9 +9,5 @@ test clone from gitHub
 
               cherry-pick 2 yet RR
 
-<<<<<<< HEAD
               cherry-pick 3 yet
 
-=======
-              cherry-pick 3 yet RR
->>>>>>> 4bbdade (RRthird)
