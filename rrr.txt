@@ -7,7 +7,7 @@ test clone from gitHub
 .
               cherry-pick 1 yet RR
 
-              cherry-pick 2 yet RR
+              cherry-pick 2 yet
 
               cherry-pick 3 yet
 
